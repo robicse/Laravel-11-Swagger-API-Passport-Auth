@@ -1,0 +1,5 @@
+Swagger Integration with Laravel 11 APIs (Hindi) || Laravel Swagger Document Crash Course
+https://www.youtube.com/watch?v=22szXenlRHw
+
+#07 Laravel REST API Development - Authentication CRUD API Documentation in swagger
+https://www.youtube.com/watch?v=TsxxO0XEfVw
