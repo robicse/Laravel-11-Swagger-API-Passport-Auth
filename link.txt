@@ -3,3 +3,9 @@ https://www.youtube.com/watch?v=22szXenlRHw
 
 #07 Laravel REST API Development - Authentication CRUD API Documentation in swagger
 https://www.youtube.com/watch?v=TsxxO0XEfVw
+
+1. composer require darkaonline/l5-swagger
+
+2. php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
+
+3. php artisan l5-swagger:generate
